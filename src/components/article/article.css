@@ -1,0 +1,13 @@
+.art__container{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.art__container p{
+    color: white;
+}
+
+.art__container h2{
+    font-size: 22px;
+}
